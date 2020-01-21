@@ -1,5 +1,5 @@
 _G.Version = {
-    1.1,
+    1.2,
     "Open sourced for bug fixing."
 }
 
@@ -175,6 +175,13 @@ function teleport(x,y,z)
     repeat wait()
     until stuff[1] ~= nil
     stuff[1]:MoveTo(Vector3.new(x,y,z))
+    for i = 1, 2 do
+        wait(1)
+        keypress(0x45)
+        wait(.026)
+        keyrelease(0x45)
+        wait(.267)
+    end
 end
 
 Go.MouseButton1Down:Connect(function()
