@@ -8,6 +8,4 @@ A complete list of my published scripts.
 5. [RoCitizens Money](https://raw.githubusercontent.com/IiIIiIiIIIiiIiiIIiIIIii-warrior/scripts/master/RoCitizens%20Money.lua)
 6. [Lab Experiment UI](https://raw.githubusercontent.com/IiIIiIiIIIiiIiiIIiIIIii-warrior/scripts/master/Lab%20Experiment%20UI.lua)
 7. [Jailbreak Brief Finder](https://raw.githubusercontent.com/IiIIiIiIIIiiIiiIIiIIIii-warrior/scripts/master/Jailbreak%20Brief%20Finder.lua)
-
-## Source Scripts
-Aka scripts I don't care to obfuscate. Either because it's simple, buggy, or just that I feel nice.
+8. [Dragon Adventures AutoFarm](https://raw.githubusercontent.com/IiIIiIiIIIiiIiiIIiIIIii-warrior/scripts/master/Dragon%20Adventures%20AutoFarm)
